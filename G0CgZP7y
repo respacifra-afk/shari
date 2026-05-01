@@ -81,8 +81,6 @@ http://38.250.190.45:8000/play/a09b/index.m3u8
 http://45.5.151.147:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.co" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="PELICULAS Y SERIES",Animal Planet
 http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:-1 tvg-id="ATLAS.co" tvg-name="ATLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Atlas_TV.png/837px-Atlas_TV.png" group-title="DOCUMENTALES",ATLAS
-http://190.60.49.242:4000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="Canal.1.Col.co" tvg-name="Canal 1 (Col)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal1Colombia2024.svg/330px-Canal1Colombia2024.svg.png" group-title="PELICULAS Y SERIES",Canal 1 (Col)
 http://181.78.79.131:8000/play/a0s2
 #EXTINF:-1 tvg-id="CANAL.13.co" tvg-name="CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canal_13_2025.svg/330px-Canal_13_2025.svg.png" group-title="PELICULAS Y SERIES",CANAL 13
@@ -419,5 +417,3 @@ http://190.60.49.242:4000/play/a00f/index.m3u8
 http://190.60.49.242:4000/play/a0jq/index.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
 http://190.60.49.242:4000/play/a0jh/index.m3u8
-#EXTINF:0,USA
-http://190.60.49.242:4000/play/a0lj/index.m3u8
