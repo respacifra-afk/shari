@@ -23,8 +23,6 @@ http://45.5.151.147:8000/play/a00a/index.m3u8
 http://38.52.200.181:4000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Teleantioquia-2024Nuevo.png/500px-Teleantioquia-2024Nuevo.png" group-title="PELICULAS Y SERIES",Teleantioquia
 http://38.211.118.56:50002/play/a0514/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheNevCfd72tIv-ZlPBwp5rcybVbcBXZL8Hw&s",TELEVISION TRAPOTO
-http://191.97.49.82:8001/play/a00n/index.m3u8
 #EXTINF:0,A&E HD
 http://190.60.49.242:4000/play/a0je/index.m3u8
 #EXTINF:0,MEGA HD
