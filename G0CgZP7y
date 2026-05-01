@@ -155,10 +155,6 @@ http://181.78.8.199:8000/play/a0cf/index.m3u8
 http://38.211.118.56:50002/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="247.El.Chavo.co" tvg-name="24/7 El Chavo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/El_Chavo_%28simple_logo%29.png/revision/latest/scale-to-width-down/78?cb=20200225033448&path-prefix=es" group-title="24-7",24/7 El Chavo
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTheNevCfd72tIv-ZlPBwp5rcybVbcBXZL8Hw&s",TELEVISION TRAPOTO
-http://191.97.49.82:8001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxHn6T6ip4NspBRFETKSksIl6TL0BlUrVSQ&s",WesT
-http://191.97.49.82:8001/play/a00r/index.m3u8
 #EXTINF:0,2 Canal Congreso Colombia HD
 http://190.60.49.242:4000/play/a0q8/index.m3u8
 #EXTINF:0,A&E HD
